@@ -6,7 +6,7 @@ export default defineConfig({
   title: "Shy's personal blog",
   description: "A VitePress Site",
   themeConfig: {
-    logo: "./public/icon/程序代码.svg",
+    logo: "/personal-blog/icon/程序代码.svg",
     // https://vitepress.dev/reference/default-theme-config
     nav: [
       { text: "首页", link: "/" },

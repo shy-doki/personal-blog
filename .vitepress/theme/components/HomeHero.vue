@@ -13,13 +13,13 @@
 
 <script setup>
 const images = [
-    '/personal-blog/public/icon/加油.svg',
-    '/personal-blog/public/icon/打call.svg',
-    '/personal-blog/public/icon/酷.svg',
-    '/personal-blog/public/icon/撇嘴.svg',
-    '/personal-blog/public/icon/色.svg',
-    '/personal-blog/public/icon/右哼哼.svg',
-    '/personal-blog/public/icon/晕.svg',
+    '/personal-blog/icon/加油.svg',
+    '/personal-blog/icon/打call.svg',
+    '/personal-blog/icon/酷.svg',
+    '/personal-blog/icon/撇嘴.svg',
+    '/personal-blog/icon/色.svg',
+    '/personal-blog/icon/右哼哼.svg',
+    '/personal-blog/icon/晕.svg',
 ]; 
 const randomImage = images[Math.floor(Math.random() * images.length)];
 </script>
